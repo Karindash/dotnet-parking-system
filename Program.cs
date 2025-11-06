@@ -27,7 +27,7 @@ namespace Parkir
                 {
                     switch (cmd)
                     {
-                        case "create_parking":
+                        case "create_parking_lot":
                             int kapasitas = int.Parse(parts[1]);
                             lot = new LotParkir(kapasitas);
                             Console.WriteLine($"Created a parking lot with {kapasitas} slots");
