@@ -1,0 +1,16 @@
+C:\Users\Karinda\Documents\DOTNET\Parkir\bin\Debug\net5.0\Parkir.exe
+C:\Users\Karinda\Documents\DOTNET\Parkir\bin\Debug\net5.0\Parkir.deps.json
+C:\Users\Karinda\Documents\DOTNET\Parkir\bin\Debug\net5.0\Parkir.runtimeconfig.json
+C:\Users\Karinda\Documents\DOTNET\Parkir\bin\Debug\net5.0\Parkir.runtimeconfig.dev.json
+C:\Users\Karinda\Documents\DOTNET\Parkir\bin\Debug\net5.0\Parkir.dll
+C:\Users\Karinda\Documents\DOTNET\Parkir\bin\Debug\net5.0\ref\Parkir.dll
+C:\Users\Karinda\Documents\DOTNET\Parkir\bin\Debug\net5.0\Parkir.pdb
+C:\Users\Karinda\Documents\DOTNET\Parkir\obj\Debug\net5.0\Parkir.csproj.AssemblyReference.cache
+C:\Users\Karinda\Documents\DOTNET\Parkir\obj\Debug\net5.0\Parkir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karinda\Documents\DOTNET\Parkir\obj\Debug\net5.0\Parkir.AssemblyInfoInputs.cache
+C:\Users\Karinda\Documents\DOTNET\Parkir\obj\Debug\net5.0\Parkir.AssemblyInfo.cs
+C:\Users\Karinda\Documents\DOTNET\Parkir\obj\Debug\net5.0\Parkir.csproj.CoreCompileInputs.cache
+C:\Users\Karinda\Documents\DOTNET\Parkir\obj\Debug\net5.0\Parkir.dll
+C:\Users\Karinda\Documents\DOTNET\Parkir\obj\Debug\net5.0\ref\Parkir.dll
+C:\Users\Karinda\Documents\DOTNET\Parkir\obj\Debug\net5.0\Parkir.pdb
+C:\Users\Karinda\Documents\DOTNET\Parkir\obj\Debug\net5.0\Parkir.genruntimeconfig.cache
